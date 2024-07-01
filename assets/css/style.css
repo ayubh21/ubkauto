@@ -653,6 +653,22 @@ body {
   border-radius: var(--radius-circle);
 }
 
+#testimonials {
+  color: white;
+  margin-top: 2rem;
+}
+
+#testimonial p:first {
+  color: var(--white);
+}
+.testimonial-card {
+  background-color: var(--space-cadet);
+}
+
+.review-title {
+  color: var(--white);
+}
+
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
@@ -1372,7 +1388,6 @@ body {
   }
 
   .hero-banner img {
-    width: 75%;
   }
 
   /**
